@@ -1,4 +1,4 @@
 - Graduated from Istanbul Technical University.
-- 2 Finished Game Projects.[a link](https://github.com/Ykanber/Monopoly)
+- 2 Finished Game Projects.[Monopoly](https://github.com/Ykanber/Monopoly)[ToonBlastClone](https://github.com/Ykanber/ToonBlastClone)
 - Currently working on 3D roguelike game.
 - Also have some project repositories that I have created while learning Unity from Udemy.
