@@ -1,4 +1,0 @@
-- Graduated from Istanbul Technical University.
-- 3 Finished Game Projects.[Monopoly](https://github.com/Ykanber/Monopoly),[ToonBlastClone](https://github.com/Ykanber/ToonBlastClone),[TowerDefense](https://github.com/Ykanber/TowerDefense).
-- Currently working on 3D roguelike Fps game.[FFps](https://github.com/Ykanber/FFps).
-- Also have some project repositories that I have created while learning Unity from Udemy.
